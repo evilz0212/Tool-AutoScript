@@ -1,6 +1,7 @@
 ![Shell](https://img.shields.io/badge/Shell-3.2.57-blue)
 
 # Auto Script
+![Screenshot-001](img/screenshot-001.png)
 
 ## Overview
 紀錄開發連線相關設定，使用簡易指令快速連線，並自動部署。

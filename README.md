@@ -1,10 +1,16 @@
-![Shell](https://img.shields.io/badge/Shell-3.2.57-blue)
 
-# Auto Script
-![Screenshot-001](img/screenshot-001.png)
+<!-- Title & Logo -->
+<h1 align="center">Auto Script</h1>
+
+<!-- tag & links (Version\Lang\Package) -->
+<p align="center">
+    <img src="https://img.shields.io/badge/Shell-3.2.57-blue" alt="Shell" />
+</p>
+
+![Preview](img/preview.png)
 
 ## Overview
-紀錄開發連線相關設定，使用簡易指令快速連線，並自動部署。
+紀錄開發連線相關設定，使用簡易指令快速連線及部署。
 
 ## Feature
 * ssh: 測試/正式環境
